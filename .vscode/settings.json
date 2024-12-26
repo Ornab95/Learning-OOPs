@@ -1,0 +1,11 @@
+{
+  "java.project.sourcePaths": [
+    "src/LearnOOP/Polymorphism",
+    "src/LearnOOP/Inheritance",
+    "src/LearnOOP/Encapsulation",
+    "src/LearnOOP/Class"
+  ],
+  "java.project.outputPath": "bin",
+  "java.project.referencedLibraries": ["lib/**/*.jar"],
+  "java.debug.settings.onBuildFailureProceed": true
+}
